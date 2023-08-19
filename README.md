@@ -3,13 +3,8 @@
 👀 I’m interested in fullstack development
 
 🌱 I’m currently learning JavaScript/React.
-I am a lover of coding and tech in general.
+I am a lover of coding and tech in general 🧑‍💻
 
-Also learning Python for backend dev👾
-
-My portfolio site👇
-
-https://portfolio-two-pi-11.vercel.app/portfolio2.html
 
 Contact me through Telegram
 https://t.me/chibuzokelechi17
