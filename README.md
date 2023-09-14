@@ -1,14 +1,10 @@
-👋 Hi, I’m Chibuzo Kelechi VP.
+# Hi, I’m Chibuzo Kelechi 👋 
 
-👀 I’m interested in fullstack development
+🌱 I’m a **React** developer.
 
-🌱 I’m currently learning JavaScript/React.
+👀 I’m interested in fullstack development with **Python**.
+
 I am a lover of coding and tech in general 🧑‍💻
-
-
-Contact me through Telegram
-https://t.me/chibuzokelechi17
-
 
 <!---
 ChibuzoKelechi/ChibuzoKelechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
