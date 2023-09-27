@@ -1,4 +1,4 @@
-# Hi, I’m Chibuzo Kelechi 👋 
+# Hi, I’m Kelechi 👋 
 
 🌱 I’m a **React** developer.
 
