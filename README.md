@@ -1,11 +1,14 @@
-# Hi, I’m Kelechi 👋 
+# I’m Kelechi 👋 
 
-🌱 I’m a **React** developer.
+### I’m a web developer.
 
-👀 I’m interested in fullstack development with **Python**.
+I love building things in Python
+Currently learning Machine learning :) 
 
-I am a lover of coding and tech in general 🧑‍💻
-
+## Technologies I am familiar with include..(Web development/Machine learning)
+* HTML, CSS, JS
+* Python
+* React
 <!---
 ChibuzoKelechi/ChibuzoKelechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
