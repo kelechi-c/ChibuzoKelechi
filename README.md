@@ -3,6 +3,7 @@
 ### I’m a web developer.
 
 I love building things in Python
+
 Currently learning Machine learning :) 
 
 ## Technologies I am familiar with include..(Web development/Machine learning)
