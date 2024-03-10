@@ -1,35 +1,18 @@
 ## I’m Kelechi 
 *(..Or you could call me **Tensor**)*
 
-### Machine learning/web developer
+### Machine learning/backend developer
 
-I love building things with Python, and I am a fullstack web developer
-
-<!-- #### Technologies I am familiar with include..(Web development/Machine learning)
-
-* Python(Machine learning, web scraping)
-* HTML, CSS, JS, React(Frontend development)
-* FastAPI/Django -->
-
+I love building things with Python
 
 ### 🛠 &nbsp;Tech Stack
 * **Python**
-* **Javascript/Typescript**
-* **React**(Frontend)
 * **Tensorflow**(Machine learning)
 * **FastAPI/Django**(Backend)
-
-<!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=38bdf8)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
+* **Web scraping/Python scripting**
+* **Javascript/Typescript**
 
 
-  
   <div>
     <h2 align="left"> Github stats </h2>
     <h4 align="left"> Languages </h4>
